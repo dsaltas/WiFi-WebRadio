@@ -13,7 +13,9 @@ chip and audio codec [VS1053b](http://www.vlsi.fi/en/products/vs1053.html) chip.
 
 - You can connect an external [keypad](https://github.com/karawin/Ka-Radio/blob/master/Hardware/controles.pdf) for control. Just unsolder the ADC jumper.
 
-- The RXD pin is 5V tolerant so you can connect a 5V-arduino.
+- The RXD pin is 5V tolerant so you can connect a 5V microcontroller.
+
+- Output is line-out with large audio grade electrolytic capacitors. Safe to connect an external amplifier.
 
 - You can use two types of SRAM. 23LCV1024 **or** 23LC1024. Just solder the proper jumper.
 
