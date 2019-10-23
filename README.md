@@ -4,8 +4,6 @@ This is a hardware project for [Ka-Radio](https://github.com/karawin/Ka-Radio).
 
 It is based on [ESP8266](https://espressif.com/en/products/hardware/esp8266ex/overview) 
 chip and audio codec [VS1053b](http://www.vlsi.fi/en/products/vs1053.html) chip.
-![Top](Photos/top.png)
-![Bottom](Photos/bottom.png)
 
 ### Features
 
@@ -21,3 +19,9 @@ chip and audio codec [VS1053b](http://www.vlsi.fi/en/products/vs1053.html) chip.
 - You can use two types of SRAM. 23LCV1024 **or** 23LC1024. Just solder the proper jumper.
 
 You can order the pcb from [OSH Park](https://oshpark.com/shared_projects/gWQ2vAD6).
+
+### ToDo
+
+- Upload Gerber files.
+
+- Upload BOM.
