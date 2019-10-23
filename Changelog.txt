@@ -1,4 +1,4 @@
-2010-10-23 Dimitris Saltas <saltech1975@gmail.com>
+2019-10-23 Dimitris Saltas <saltech1975@gmail.com>
 
 * IC4 (3.3V Regulator) changed from SOT23-3 to SOT23-5.
 
