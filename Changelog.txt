@@ -1,0 +1,5 @@
+2010-10-23 Dimitris Saltas <saltech1975@gmail.com>
+
+* IC4 (3.3V Regulator) changed from SOT23-3 to SOT23-5.
+
+* C1, C12 capacitors changed from 0805 to 1210.
