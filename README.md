@@ -9,11 +9,12 @@ chip and audio codec [VS1053b](http://www.vlsi.fi/en/products/vs1053.html) chip.
 
 ### Features
 
-- You can power it with 3V3 **or** 5V (5V can be from 4V to 6V). Do **NOT** use both power inputs at the same time.
+- You can power it with 3V3 **or** 5V. Do **NOT** use both power inputs at the same time.
 
 - You can connect an external [keypad](https://github.com/karawin/Ka-Radio/blob/master/Hardware/controles.pdf) for control. Just unsolder the ADC jumper.
 
-- The RXD pin is 5V tolerant so you can connect a 5V microcontroller.
+- <del>The RXD pin is 5V tolerant so you can connect a 5V microcontroller</del>.
+  It seems that ESP8266 I/Os are 5V tolerant.
 
 - Output is line-out with large audio grade electrolytic capacitors. Safe to connect an external amplifier.
 
