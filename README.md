@@ -28,4 +28,3 @@ You can order the pcb from [OSH Park](https://oshpark.com/shared_projects/gWQ2vA
 
 - Upload Reference Designators Diagram.
 
-- Upload BOM.
