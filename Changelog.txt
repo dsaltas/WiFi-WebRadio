@@ -4,4 +4,6 @@
 
 * C1, C12 capacitors changed from 0805 to 1210.
 
+* C9, C10 capacitors changed from 220uF to 470uF.
+
 * R42, C13 added this RC-combo to GBUF output pin.
