@@ -5,6 +5,9 @@ This is a hardware project for [Ka-Radio](https://github.com/karawin/Ka-Radio).
 It is based on [ESP8266](https://espressif.com/en/products/hardware/esp8266ex/overview) 
 chip and audio codec [VS1053b](http://www.vlsi.fi/en/products/vs1053.html) chip.
 
+![Top](Doc/top_rendered.png)
+![Bottom](Doc/bottom_rendered.png)
+
 ### Features
 
 - You can power it with 3V3 **or** 5V. Do **NOT** use both power inputs at the same time.
