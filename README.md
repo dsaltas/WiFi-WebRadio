@@ -27,7 +27,4 @@ You can order the pcb from [OSH Park](https://oshpark.com/shared_projects/Byku3T
 
 ### ToDo
 
-- Upload Gerber files.
-
 - Upload Reference Designators Diagram.
-
