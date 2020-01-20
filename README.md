@@ -23,7 +23,7 @@ chip and audio codec [VS1053b](http://www.vlsi.fi/en/products/vs1053.html) chip.
 
 I haven't tested the pcb (r1b4) yet! But I can't find any reason why it won't work.
 
-You can order the pcb from [OSH Park](https://oshpark.com/shared_projects/gWQ2vAD6).
+You can order the pcb from [OSH Park](https://oshpark.com/shared_projects/Byku3T3d).
 
 ### ToDo
 
