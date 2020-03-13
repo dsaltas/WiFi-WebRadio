@@ -21,10 +21,7 @@ chip and audio codec [VS1053b](http://www.vlsi.fi/en/products/vs1053.html) chip.
 
 - You can use two types of SRAM. 23LCV1024 **or** 23LC1024. Just solder the proper jumper.
 
-I haven't tested the pcb (r1b4) yet! But I can't find any reason why it won't work.
+Tested and working as expected.
 
 You can order the pcb from [OSH Park](https://oshpark.com/shared_projects/Byku3T3d).
 
-### ToDo
-
-- Order, build and test the newer revision.
